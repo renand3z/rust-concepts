@@ -1,4 +1,4 @@
-# Distinct CQT query
+# Rust Concepts
 
 Rust concepts wrapped in a command line app.
 
